@@ -8,7 +8,7 @@ page-layout: full
 ::: {.column width="30%"}
 ![](files/headshot.jpg){.headshot}
 
-**Hunter [LastName]**  
+**Hunter Riccardelli**  
 PhD Candidate  
 Applied Economics  
 Oregon State University
