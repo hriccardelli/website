@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hunter [LastName]"
+  description: "PhD Candidate in Applied Economics, Oregon State University"
+  favicon: files/favicon.ico
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: files/cv.pdf
+      - text: "Teaching"
+        href: teaching.qmd
+    right:
+      - icon: envelope
+        href: mailto:youremail@oregonstate.edu
+        aria-label: Email
+      - icon: github
+        href: https://github.com/yourusername
+        aria-label: GitHub
+
+  page-footer:
+    center: "© 2026 Hunter [LastName]"
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    css: custom.scss
+    toc: false
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 200px
