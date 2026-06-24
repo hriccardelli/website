@@ -1,29 +1,22 @@
-/*-- Custom theme for academic site --*/
+/*-- scss:defaults --*/
 
-/*-- Google Fonts --*/
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
 
-/*-- Color palette: warm neutrals with OSU amber accent --*/
-$body-bg:        #FDFAF6;
-$body-color:     #2C2C2C;
-$link-color:     #8B3A0F;   /* warm rust */
-$navbar-bg:      #2C2C2C;
-$navbar-fg:      #F5F0E8;
-$headings-color: #1A1A1A;
-$border-color:   #E0D8CC;
-
-/*-- Typography --*/
+$body-bg:                #FDFAF6;
+$body-color:             #2C2C2C;
+$link-color:             #8B3A0F;
+$navbar-bg:              #2C2C2C;
+$navbar-fg:              #F5F0E8;
+$headings-color:         #1A1A1A;
+$border-color:           #E0D8CC;
 $font-family-sans-serif: 'Source Sans 3', sans-serif;
 $headings-font-family:   'Lora', serif;
 $font-size-base:         1.05rem;
 $line-height-base:       1.75;
+$spacer:                 1rem;
 
-/*-- Spacing --*/
-$spacer: 1rem;
+/*-- scss:rules --*/
 
-/*-- Custom component styles --*/
-
-/* Headshot */
 .headshot {
   border-radius: 6px;
   width: 100%;
@@ -32,7 +25,6 @@ $spacer: 1rem;
   box-shadow: 0 2px 12px rgba(0,0,0,0.1);
 }
 
-/* Research abstract blocks */
 .abstract-block {
   background: #F5F0E8;
   border-left: 3px solid #8B3A0F;
@@ -54,7 +46,6 @@ $spacer: 1rem;
   margin-bottom: 0.4rem;
 }
 
-/* Navbar tweaks */
 .navbar-brand {
   font-family: 'Lora', serif;
   font-size: 1.1rem;
@@ -66,14 +57,12 @@ $spacer: 1rem;
   letter-spacing: 0.02em;
 }
 
-/* Research interest tags */
 h2 {
   border-bottom: 1px solid $border-color;
   padding-bottom: 0.4rem;
   margin-top: 2rem;
 }
 
-/* Footer */
 .nav-footer {
   font-size: 0.85rem;
   color: #888;
@@ -82,20 +71,10 @@ h2 {
   margin-top: 3rem;
 }
 
-/* Paper titles */
-strong {
-  color: #1A1A1A;
-}
+strong { color: #1A1A1A; }
 
-/* Mobile tweaks */
 @media (max-width: 768px) {
-  .columns {
-    flex-direction: column !important;
-  }
-  .column {
-    width: 100% !important;
-  }
-  .headshot {
-    max-width: 140px;
-  }
+  .columns { flex-direction: column !important; }
+  .column { width: 100% !important; }
+  .headshot { max-width: 140px; }
 }
