@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+**The Impact of Refugee Arrivals on Food Security, Income, and Crop Prices in Rural Uganda**  
+*Under Review, Economic Development and Cultural Change*
+
+::: {.abstract-block}
+[Abstract]{.abstract-label} This paper examines how large-scale refugee arrivals affect the welfare of host communities in rural Uganda. Using a household panel and plausibly exogenous variation in refugee inflows, I estimate effects on food security, household income, and local agricultural prices. [Fill in 1–2 more sentences summarizing findings and method.]
+
+[Paper (PDF)](files/paper1.pdf) &nbsp;·&nbsp; [Replication Package](https://github.com/yourusername/paper1-replication)
+:::
+
+---
+
+## Working Papers
+
+**Cultivating Self-Reliance? Land Allocation Policy and Agricultural Outcomes Among Refugees in Uganda**  
+*with Jennifer Alix-Garcia and Jamon Van Den Hoek*  
+*Submitted to PNAS*
+
+::: {.abstract-block}
+[Abstract]{.abstract-label} [Paste your abstract here.]
+
+[Paper (PDF)](files/paper2.pdf)
+:::
+
+---
+
+**Aid Modalities and Land Use Dynamics Around Refugee Settlements in Uganda**  
+*with [Co-authors]*  
+*Working Paper*
+
+::: {.abstract-block}
+[Abstract]{.abstract-label} [Paste your abstract here.]
+
+[Paper (PDF)](files/paper3.pdf)
+:::
+
+---
+
+## Work in Progress
+
+- [Add any early-stage projects here]
