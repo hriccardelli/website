@@ -1,0 +1,101 @@
+/*-- Custom theme for academic site --*/
+
+/*-- Google Fonts --*/
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+/*-- Color palette: warm neutrals with OSU amber accent --*/
+$body-bg:        #FDFAF6;
+$body-color:     #2C2C2C;
+$link-color:     #8B3A0F;   /* warm rust */
+$navbar-bg:      #2C2C2C;
+$navbar-fg:      #F5F0E8;
+$headings-color: #1A1A1A;
+$border-color:   #E0D8CC;
+
+/*-- Typography --*/
+$font-family-sans-serif: 'Source Sans 3', sans-serif;
+$headings-font-family:   'Lora', serif;
+$font-size-base:         1.05rem;
+$line-height-base:       1.75;
+
+/*-- Spacing --*/
+$spacer: 1rem;
+
+/*-- Custom component styles --*/
+
+/* Headshot */
+.headshot {
+  border-radius: 6px;
+  width: 100%;
+  max-width: 200px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+}
+
+/* Research abstract blocks */
+.abstract-block {
+  background: #F5F0E8;
+  border-left: 3px solid #8B3A0F;
+  padding: 1rem 1.25rem;
+  margin: 0.75rem 0 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.97rem;
+  line-height: 1.7;
+}
+
+.abstract-label {
+  font-weight: 600;
+  font-family: 'Source Sans 3', sans-serif;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  color: #8B3A0F;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+/* Navbar tweaks */
+.navbar-brand {
+  font-family: 'Lora', serif;
+  font-size: 1.1rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.92rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Research interest tags */
+h2 {
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
+}
+
+/* Footer */
+.nav-footer {
+  font-size: 0.85rem;
+  color: #888;
+  border-top: 1px solid $border-color;
+  padding-top: 1rem;
+  margin-top: 3rem;
+}
+
+/* Paper titles */
+strong {
+  color: #1A1A1A;
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column !important;
+  }
+  .column {
+    width: 100% !important;
+  }
+  .headshot {
+    max-width: 140px;
+  }
+}
