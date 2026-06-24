@@ -1,4 +1,4 @@
-# Academic Website — Hunter [LastName]
+# Academic Website — Hunter Riccardelli
 
 Built with [Quarto](https://quarto.org) and deployed via GitHub Pages.
 
