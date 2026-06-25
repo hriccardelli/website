@@ -13,8 +13,8 @@ PhD Candidate
 Applied Economics  
 Oregon State University
 
-[{{< fa envelope >}} youremail@oregonstate.edu](mailto:youremail@oregonstate.edu)  
-[{{< fa file-pdf >}} Curriculum Vitae](files/cv.pdf)
+[riccardh@oregonstate.edu](mailto:riccardh@oregonstate.edu)  
+[Curriculum Vitae](files/cv.pdf)
 :::
 
 ::: {.column width="5%"}
@@ -30,7 +30,7 @@ I am on the job market in 2026–27. My job market paper studies the causal effe
 
 ## Research Interests
 
-Development Economics &nbsp;·&nbsp; Refugee Policy &nbsp;·&nbsp; Land Use &nbsp;·&nbsp; Food Security &nbsp;·&nbsp; Spatial Econometrics
+Development Economics &nbsp;·&nbsp; Refugee Policy &nbsp;·&nbsp; Land Use &nbsp;·&nbsp; Food Security &nbsp;·&nbsp; Applied Microeconometrics
 
 :::
 
