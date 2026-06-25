@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Hunter [LastName]"
+  title: "Hunter Riccardelli"
   description: "PhD Candidate in Applied Economics, Oregon State University"
   favicon: files/favicon.ico
 
@@ -19,14 +19,11 @@ website:
         href: teaching.qmd
     right:
       - icon: envelope
-        href: mailto:youremail@oregonstate.edu
+        href: mailto:riccardh@oregonstate.edu
         aria-label: Email
-      - icon: github
-        href: https://github.com/yourusername
-        aria-label: GitHub
 
   page-footer:
-    center: "© 2026 Hunter [LastName]"
+    center: "© 2026 Hunter Riccardelli"
 
 format:
   html:
