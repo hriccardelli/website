@@ -6,8 +6,7 @@ website:
   title: "Hunter Riccardelli"
   description: "PhD Candidate in Applied Economics, Oregon State University"
   favicon: files/favicon.ico
-  head: |
-    <meta name="google-site-verification" content="Fs_e8es_a9xHqLSnnMhi7I5R73JrWTeD_tdy4QiULGU">
+
 
   navbar:
     left:
