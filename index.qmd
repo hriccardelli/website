@@ -3,6 +3,12 @@ title: ""
 page-layout: full
 ---
 
+```{=html}
+<div style="width:100%; height:250px; overflow:hidden; margin-bottom:2rem;">
+  <img src="files/banner.jpg" style="width:100%; height:100%; object-fit:cover; object-position:center;">
+</div>
+```
+
 :::: {.columns}
 
 ::: {.column width="30%"}
@@ -24,13 +30,13 @@ Oregon State University
 
 ## About
 
-I am a PhD candidate in Applied Economics at Oregon State University, where I study refugee policy, household welfare, and land use in Sub-Saharan Africa. My research uses spatial and panel data methods to examine the effects of Uganda's Self-Reliance Policy on host and refugee communities.
+Welcome! I am a PhD candidate in Applied Economics at Oregon State University. My research lies at the intersection of development economics and forced migration, with a focus on how refugee policy shapes household welfare, agricultural productivity, and land use in Sub-Saharan Africa. Broadly, my work draws on spatial and panel data methods to study how markets and policy affect livelihoods, land use, and natural resources in low-income settings.
 
-I am on the job market in 2026–27. My job market paper studies the causal effects of refugee arrivals on food security, income, and crop prices in rural Uganda.
+I am on the job market in 2026–27. My job market paper estimates the effects of large-scale refugee arrivals on food security, income, and crop prices in rural Uganda using a shift-share instrumental variable design.
 
 ## Research Interests
 
-Development Economics &nbsp;·&nbsp; Refugee Policy &nbsp;·&nbsp; Land Use &nbsp;·&nbsp; Food Security &nbsp;·&nbsp; Applied Microeconometrics
+Development Economics &nbsp;·&nbsp; Forced Migration &nbsp;·&nbsp; Land Use &nbsp;·&nbsp; Refugee Policy &nbsp;·&nbsp;  Food Security &nbsp;·&nbsp; Causal Inference
 
 :::
 
