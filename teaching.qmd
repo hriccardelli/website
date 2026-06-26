@@ -4,15 +4,18 @@ title: "Teaching"
 
 ## Teaching Experience
 
+**Oregon Coast Community College**
+
+| Course | Role | Term |
+|--------|------|------|
+| EC 201: Introduction to Microeconomics | Instructor | Fall 2025–Present |
+| EC 202: Introduction to Macroeconomics | Instructor | Fall 2025–Present |
+
 **Oregon State University**
 
 | Course | Role | Term |
 |--------|------|------|
-| [Course Name] | Teaching Assistant | [Term] |
-| [Course Name] | Teaching Assistant | [Term] |
+| AEC 122: Climate Change Economics and Policy | Instructor of Record | Fall 2024, Spring 2024 |
+| AEC 352: Environmental Economics and Policy | Guest Lecturer | 2025 |
 
 ---
-
-## Teaching Philosophy
-
-[Optional: 1–2 short paragraphs. Can omit until you have something to say here.]
