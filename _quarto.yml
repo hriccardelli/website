@@ -32,6 +32,9 @@ format:
       light: [flatly, custom.scss]
     css: custom.scss
     toc: false
+    include-in-header:
+      text: |
+       <meta name="google-site-verification" content="Fs_e8es_a9xHqLSnnMhi7I5R73JrWTeD_tdy4QiULGU" />
     grid:
       sidebar-width: 0px
       body-width: 900px
